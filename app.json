@@ -1,0 +1,17 @@
+{
+  "name": "AppCenter to Slack Notifier",
+  "description": "Integration between AppCenter and Slack. Deploy to Heroku and set it as a webhook within AppCenter",
+  "keywords": [
+    "appcenter",
+    "slack",
+    "heroku"
+  ],
+  "repository": "https://github.com/vkimone/appcenter-to-slack",
+  "logo": "https://github.com/vkimone/appcenter-to-slack/raw/master/logo.png",
+  "env": {
+    "SLACK_TOKEN": {
+      "description": "Your Slack Access token",
+      "required": true
+    }
+  }
+}
