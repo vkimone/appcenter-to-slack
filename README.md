@@ -7,7 +7,10 @@ appcenter-to-slack is a webhook receiver that will post messages to your Slack i
 * Distribution
 * Crashes
 
+
 > appcenter-to-slack supports only the distribution type of event. there is no ducumentation on the payload of the "Build" and "Crashes".
+
+<img src=./img/sample-appcenter-to-slack.png width="70%">
 
 
 ## Get Your Slack Access Token
